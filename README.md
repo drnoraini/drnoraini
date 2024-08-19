@@ -1,4 +1,11 @@
 ## Hi there 👋
+## Biodata
+
+**Name:** Noraini Ibrahim  
+
+## Educational Background
+- **PhD in Computer Science**
+- **Post-doctoral in Engineering Education**
 
 <!--
 **drnoraini/drnoraini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
